@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #000000;
+    --card-back-color: #f4e400;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/ju.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -13,7 +13,7 @@ body {
     display: flex; 
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 4rem;
+    padding: 3rem;
     gap: 3rem;
 }
 
